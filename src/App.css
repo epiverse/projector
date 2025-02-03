@@ -1,0 +1,14 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
